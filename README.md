@@ -14,8 +14,11 @@ https://www.youtube.com/watch?v=SNKE_B__51E
 10/10 # Requisição com loading em Ajax
 https://codepen.io/nectarcsgo/pen/LJEbLg
 
+10/10 # Triggers.
+https://www.youtube.com/watch?v=d2gOi8htkxY
 
 
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
+
