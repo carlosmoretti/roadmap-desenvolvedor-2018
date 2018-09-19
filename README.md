@@ -21,6 +21,9 @@ https://www.youtube.com/watch?v=d2gOi8htkxY
 Repositórios sem caô! (O MELHOR TUTORIAL EU AMO MICROSOFT)
 https://docs.microsoft.com/pt-br/aspnet/mvc/overview/older-versions/getting-started-with-ef-5-using-mvc-4/implementing-the-repository-and-unit-of-work-patterns-in-an-asp-net-mvc-application
 
+8/10 # Implementando Domain-Drive Design
+https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724
+
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
