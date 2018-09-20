@@ -24,6 +24,9 @@ https://docs.microsoft.com/pt-br/aspnet/mvc/overview/older-versions/getting-star
 8/10 # Implementando Domain-Drive Design
 https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724
 
+10/10 # AutoMapper e ViewModels.
+http://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-view-model-pattern/
+
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
