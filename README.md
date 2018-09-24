@@ -27,6 +27,9 @@ https://www.devmedia.com.br/introducao-ao-ddd-em-net/32724
 10/10 # AutoMapper e ViewModels.
 http://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-view-model-pattern/
 
+10/10 # Arquitetura em 3 Camadas (Apresentação - Lógica do Negócio - Acesso a Dados)
+https://www.youtube.com/watch?v=b7y5emBO2ag
+
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
