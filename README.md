@@ -30,6 +30,12 @@ http://www.eduardopires.net.br/2013/08/asp-net-mvc-utilizando-automapper-com-vie
 10/10 # Arquitetura em 3 Camadas (Apresentação - Lógica do Negócio - Acesso a Dados)
 https://www.youtube.com/watch?v=b7y5emBO2ag
 
+10/10 # Implementando Repositorios Genéricos.
+http://www.macoratti.net/16/01/net_uow1.htm
+
+10/10 # Implementando Unity of Work
+http://www.macoratti.net/16/01/net_uow2.htm
+
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
