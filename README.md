@@ -39,6 +39,9 @@ http://www.macoratti.net/16/01/net_uow2.htm
 10/10 # Relacionamentos com Entity Framework e C#
 https://docs.microsoft.com/pt-br/ef/core/saving/related-data
 
+10/10 # Implementando LOGIN com Sessions e Identity
+https://www.c-sharpcorner.com/blogs/applying-authorization-using-session-in-asp-net-mvc
+
 # util
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
