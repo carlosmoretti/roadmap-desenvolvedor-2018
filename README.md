@@ -46,3 +46,6 @@ https://www.c-sharpcorner.com/blogs/applying-authorization-using-session-in-asp-
 Implementando Elmah com MVC.
 http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
 
+Muitos fetches? Englobe-as numa array e execute-as com o Promise.all.
+https://stackoverflow.com/questions/57417311/cant-render-array-of-elements-on-react/57417956#57417956
+
