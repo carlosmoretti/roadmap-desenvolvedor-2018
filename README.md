@@ -52,3 +52,8 @@ http://beletsky.net/2011/03/integrating-elmah-to-aspnet-mvc-in.html
 Muitos fetches? Englobe-as numa array e execute-as com o Promise.all.
 https://stackoverflow.com/questions/57417311/cant-render-array-of-elements-on-react/57417956#57417956
 
+# Angular
+
+Interceptors para autenticação com Angular
+https://medium.com/@cesarolvr/implementando-interceptor-para-requisi%C3%A7%C3%B5es-http-em-sua-aplica%C3%A7%C3%A3o-angular-4-5dba022dfcb1
+
