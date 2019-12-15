@@ -1,6 +1,13 @@
 # roadmap-desenvolvedor-2018
 Roadmap do Desenvolvedor 2018
 
+10/10 # INICIAR APLICAÇÃO .NET CORE LOCALMENTE (VIA .BAT)
+Sempre que quiser iniciar uma aplicação localmente, fora do VS, só rodar o comando:
+dotnet <nome_da_dll>.dll
+
+1-> Publique a aplicação MVC.
+2-> Vá na pasta da publicação
+3-> dotnet <nome_da_dll>.dll
 
 10/10 # Inversão de Controle, diminuindo acoplamento e aumentando a coesão.
 https://www.youtube.com/embed/zuxHv3YkQSQ
