@@ -1,6 +1,16 @@
 # roadmap-desenvolvedor-2018
 Roadmap do Desenvolvedor 2018
 
+10/10 # Ionic dando erro de CORS.
+https://stackoverflow.com/questions/47180634/i-get-http-failure-response-for-unknown-url-0-unknown-error-instead-of-actu/48902894
+
+Adicionar no network_security_config.xml:
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+  <!-- Set application-wide security config -->
+  <base-config cleartextTrafficPermitted="true"/>
+</network-security-config>
+
 10/10 # INICIAR APLICAÇÃO .NET CORE LOCALMENTE (VIA .BAT)
 Sempre que quiser iniciar uma aplicação localmente, fora do VS, só rodar o comando:
 dotnet <nome_da_dll>.dll
