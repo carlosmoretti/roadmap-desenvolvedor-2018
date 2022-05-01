@@ -79,3 +79,4 @@ https://medium.com/@cesarolvr/implementando-interceptor-para-requisi%C3%A7%C3%B5
 
 # 2022
 subindo container via dockerengine
+https://gist.github.com/carlosmoretti/8ec0e6b40feaacd00ff0321ae31d96af
